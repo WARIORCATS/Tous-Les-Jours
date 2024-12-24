@@ -1,0 +1,23 @@
+#header {
+    font-weight: 1000;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#paragraph {
+   width: 300px;
+   font-weight: 600;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#little-paragraph {
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-image: url(Bread\ Image.webp);
+    background-position:10px 400, 410px 400;
+    background-repeat: no-repeat;
+    background-size: 500px 250px, ;
+    background-color: green;
+}
